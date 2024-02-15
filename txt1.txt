@@ -1,6 +1,9 @@
 <html>
 <head>
-<title>Gt andGitHub<//title
+<title>Gt andGitHub</title>
+<style>
+body{background colour:blue;}
+</style>
 </head>
 </body>
 </html>
